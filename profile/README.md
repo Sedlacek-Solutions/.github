@@ -1,4 +1,4 @@
-# Sedlacek Solutions LLC
+# Sedlacek Solutions
 
 ## Open Source
 
