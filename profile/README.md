@@ -13,6 +13,12 @@
 | [SFSymbolKit](https://github.com/Sedlacek-Solutions/SFSymbolKit) | SwiftUI library for type-safe SFSymbols | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SFSymbolKit?style=social) |
 | [Toast](https://github.com/Sedlacek-Solutions/Toast) | SwiftUI library for displaying toast messages | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/Toast?style=social) |
 
-## What we're building
+## 🙏 Thank you to our contributors
 
-<img width="1087" height="730" alt="Screenshot 2025-10-14 at 5 31 09 PM" src="https://github.com/user-attachments/assets/f15f35fd-f0db-4928-b103-d1353b2a1334" />
+We’re grateful to everyone who’s helped build and improve our projects 💜
+
+[![Contributors](https://contrib.rocks/image?repo=Sedlacek-Solutions/Routing)](https://github.com/Sedlacek-Solutions/Routing/graphs/contributors)<br>
+[![Contributors](https://contrib.rocks/image?repo=Sedlacek-Solutions/OnboardingKit)](https://github.com/Sedlacek-Solutions/OnboardingKit/graphs/contributors)<br>
+[![Contributors](https://contrib.rocks/image?repo=Sedlacek-Solutions/RatingsKit)](https://github.com/Sedlacek-Solutions/RatingsKit/graphs/contributors)<br>
+[![Contributors](https://contrib.rocks/image?repo=Sedlacek-Solutions/Scrumdinger)](https://github.com/Sedlacek-Solutions/Scrumdinger/graphs/contributors)<br>
+[![Contributors](https://contrib.rocks/image?repo=Sedlacek-Solutions/Toast)](https://github.com/Sedlacek-Solutions/Toast/graphs/contributors)
