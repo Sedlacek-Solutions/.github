@@ -11,7 +11,7 @@
 | [SurveyKit](https://github.com/Sedlacek-Solutions/SurveyKit) | SwiftUI library for creating user surveys | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SurveyKit?style=social) |
 | [ProgressTabView](https://github.com/Sedlacek-Solutions/ProgressTabView) | SwiftUI library that provides a custom tab view with progress tracking functionality | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/ProgressTabView?style=social) |
 | [SFSymbolKit](https://github.com/Sedlacek-Solutions/SFSymbolKit) | SwiftUI library for type-safe SFSymbols | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SFSymbolKit?style=social) |
-| [Toast](https://github.com/Sedlacek-Solutions/Toast) | SwiftUI library for displaying toast messages | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/Toast?style=social) |
+| [SwiftUI-Toast](https://github.com/Sedlacek-Solutions/SwiftUI-Toast) | Library for displaying toast messages | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Toast?style=social) |
 
 ## 🙏 Thank you to our contributors
 
