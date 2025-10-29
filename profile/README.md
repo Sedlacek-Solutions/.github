@@ -10,7 +10,7 @@
 | [Scrumdinger](https://github.com/Sedlacek-Solutions/Scrumdinger) | A rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development. | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/Scrumdinger?style=social) |
 | [SwiftUI-Surveys](https://github.com/Sedlacek-Solutions/SwiftUI-Surveys) | Library for creating user surveys | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Surveys?style=social) |
 | [ProgressTabView](https://github.com/Sedlacek-Solutions/ProgressTabView) | SwiftUI library that provides a custom tab view with progress tracking functionality | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/ProgressTabView?style=social) |
-| [SFSymbolKit](https://github.com/Sedlacek-Solutions/SFSymbolKit) | SwiftUI library for type-safe SFSymbols | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SFSymbolKit?style=social) |
+| [SwiftUI-Symbols](https://github.com/Sedlacek-Solutions/SwiftUI-Symbols) | Library for type-safe SFSymbols | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Symbols?style=social) |
 | [SwiftUI-Toast](https://github.com/Sedlacek-Solutions/SwiftUI-Toast) | Library for displaying toast messages | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Toast?style=social) |
 
 ## 🙏 Thank you to our contributors
