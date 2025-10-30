@@ -6,7 +6,7 @@
 |-------------|------------|------------|
 | [SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | Library for navigation | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Navigation?style=social) |
 | [OnboardingKit](https://github.com/Sedlacek-Solutions/OnboardingKit) | SwiftUI library for handling onboarding | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/OnboardingKit?style=social) |
-| [RatingsKit](https://github.com/Sedlacek-Solutions/RatingsKit) | SwiftUI library for displaying a ratings request screen | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/RatingsKit?style=social) |
+| [RatingsKit](https://github.com/Sedlacek-Solutions/SwiftUI-Ratings) | Library for displaying a ratings request screen | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Ratings?style=social) |
 | [Scrumdinger](https://github.com/Sedlacek-Solutions/Scrumdinger) | A rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development. | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/Scrumdinger?style=social) |
 | [SwiftUI-Surveys](https://github.com/Sedlacek-Solutions/SwiftUI-Surveys) | Library for creating user surveys | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SwiftUI-Surveys?style=social) |
 | [ProgressTabView](https://github.com/Sedlacek-Solutions/ProgressTabView) | SwiftUI library that provides a custom tab view with progress tracking functionality | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/ProgressTabView?style=social) |
